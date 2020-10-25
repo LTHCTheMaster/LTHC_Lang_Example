@@ -1,0 +1,2 @@
+Required: https://github.com/LTHCTheMaster/LTHC-Lang/tree/LTHCLang_V7.8
+  Interpreter: https://github.com/LTHCTheMaster/LTHC-Lang/releases/tag/7.8
